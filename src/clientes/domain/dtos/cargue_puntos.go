@@ -1,6 +1,6 @@
 package clientesdto
 
-type NuevaActualizacionDto struct {
+type CarguePuntosDto struct {
 	IdHistorial               int      `json:"id_historial"`
 	Uid                       string   `json:"uid"`
 	Fecha                     string   `json:"fecha"`

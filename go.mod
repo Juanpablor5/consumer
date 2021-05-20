@@ -10,4 +10,5 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/kinesis v1.3.0
 	github.com/joho/godotenv v1.3.0
 	github.com/mitooos/kinesis-consumer v0.4.0
+	go.mongodb.org/mongo-driver v1.5.2
 )
